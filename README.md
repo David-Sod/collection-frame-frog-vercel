@@ -1,6 +1,11 @@
+
+## Install dependencies
 ```
-npm install
-npm run dev
+yarn install 
 ```
 
-Head to http://localhost:5173/api# collection-frame-frog-vercel
+
+## Run dev
+```
+yarn dev
+```
